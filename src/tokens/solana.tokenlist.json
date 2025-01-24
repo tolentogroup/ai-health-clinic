@@ -1,12 +1,18 @@
-{
-  "chainId": 101,  // 101 for Solana Mainnet, 102 for Testnet, 103 for Devnet
-  "address": "FrJsX71rz83Ja1Rr11RYD8JjbskWN8FcSk6iYnijci82",
-  "symbol": "HEALTH",
-  "name": "AI Health Clinic",
-  "decimals": 9,
-  "logoURI": "https://ipfs.io/ipfs/Qmd9LUmx2JBqT24RinuCFVb18cxHV6YYdJxVQUDNGTwDnX"",
-  "tags": ["utility-token"],
-  "extensions": {
-    "website": "https://aihealthclinic.com",
-  }
+"root":{10 items
+"key":int4
+"updateAuthority":string"5HhpSNBW5Kcw2T4nNULbotea9YdsDZKhAPGs8A5TFk5S"
+"mint":string"FrJsX71rz83Ja1Rr11RYD8JjbskWN8FcSk6iYnijci82"
+"data":{5 items
+"name":string"AI Health Clinic"
+"symbol":string"HEALTH"
+"uri":string"https://ipfs.io/ipfs/Qmd9LUmx2JBqT24RinuCFVb18cxHV6YYdJxVQUDNGTwDnX"
+"sellerFeeBasisPoints":int0
+"creators":undefined
+}
+"primarySaleHappened":int0
+"isMutable":int0
+"editionNonce":int254
+"tokenStandard":int2
+"collection":undefined
+"uses":undefined
 }
