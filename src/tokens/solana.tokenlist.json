@@ -1,12 +1,1 @@
-{
-  "chainId": 101,  // 101 for Solana Mainnet, 102 for Testnet, 103 for Devnet
-  "address": "FrJsX71rz83Ja1Rr11RYD8JjbskWN8FcSk6iYnijci82",
-  "symbol": "HEALTH",
-  "name": "AI Health Clinic",
-  "decimals": 6,
-  "logoURI": "https://ipfs.io/ipfs/Qmd9LUmx2JBqT24RinuCFVb18cxHV6YYdJxVQUDNGTwDnX"",
-  "tags": ["utility-token"],
-  "extensions": {
-    "website": "https://aihealthclinic.com",
-  }
-}
+
